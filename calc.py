@@ -8,7 +8,9 @@ def main():
   x = input("Please input number 1: ")
   y = input("Please input number 2: ")
   print("Addition: " + add.add(x,y))
-  print("Division: " + div.div(x,y)) 
+  print("Division: " + div.div(x,y))
+  print("Multiplication is: " + mul.mul(x,y))
+    
 
 if __name__== "__main__":
   main()
