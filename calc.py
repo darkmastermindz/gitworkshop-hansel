@@ -1,7 +1,5 @@
+# calc.py
 # Main Function
-
-
-# Calc.py
 
 
 # Add function
