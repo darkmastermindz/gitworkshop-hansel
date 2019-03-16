@@ -1,8 +1,6 @@
-def division (operator) :
-    x = float(input('Enter number 1: '))
+def division (x,y) :
 
-    y = float(input('Enter number 2: '))
-
-    if operator == "/"
-        
+    if y == 0 :
+        return -1 
+    else 
         return x / y 
